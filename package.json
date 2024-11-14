@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "bin": {
-        "my-node-cli": "./index.js"
+        "task-cli": "./index.js"
     },
     "type": "module",
     "scripts": {
